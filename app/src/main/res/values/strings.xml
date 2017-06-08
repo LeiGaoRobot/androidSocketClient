@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConnectServer</string>
+    <string name="tipsText">请输入请求地址</string>
+</resources>
